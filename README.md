@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 </h1>
+<h1 align="center"> Welcome to Melisa Gözet's profile! 👋 </h1>
 <h3 align="center">PhD Student in Ankara University. Data Scientist candidate.</h3>
 
 - 🔭 I’m currently working on **Data Science & Machine Learning Bootcamp Participant at Miuul.**
