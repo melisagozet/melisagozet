@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to Melisa's profile! 👋 </h1>
-<h3 align="center">PhD Student in Ankara University. Data Scientist candidate.</h3>
+<h3 align="center">PhD Student in Ankara University. </h3>
 
-- 🔭 I’m currently working on **Data Science & Machine Learning Bootcamp Participant at Miuul.**
+
 
 - 📝 I write articles on [https://medium.com/@gozetmelisaa](https://medium.com/@gozetmelisaa)
 
