@@ -3,7 +3,7 @@
 
 
 
-- 📝 I write articles on [https://medium.com/@gozetmelisaa](https://medium.com/@gozetmelisaa)
+
 
 - 📫 How to reach me **gozetmelisaa@gmail.com**
 
