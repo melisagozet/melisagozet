@@ -1,11 +1,10 @@
 <h1 align="center"> Welcome to Melisa's profile! 👋 </h1>
-<h3 align="center"> Research Assistant in the department of Artificial Intelligence Engineering at Ostim Technical University.</h3>
+<h3 align="center"> Research Assistant </h3>
 
 
 
 
-
-- 📫 How to reach me **gozetmelisaa@gmail.com**
+- 📫 How to reach me **melisa.gozet@ostimteknik.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
