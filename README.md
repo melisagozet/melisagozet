@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to Melisa's profile! 👋 </h1>
-<h3 align="center">PhD Student in Ankara University. </h3>
+<h3 align="center"> Research Assistant in the department of Artificial Intelligence Engineering at Ostim Technical University.</h3>
 
 
 
